@@ -1,0 +1,396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"water",
+				"watermark"
+			],
+			[
+				"wa",
+				"watermark2"
+			],
+			[
+				"image",
+				"imageHeight"
+			],
+			[
+				"im",
+				"imageHeight"
+			],
+			[
+				"Image",
+				"imageHeight"
+			],
+			[
+				"temp",
+				"template_name"
+			],
+			[
+				"pre",
+				"preprocess"
+			],
+			[
+				"cou",
+				"countpic"
+			],
+			[
+				"ty",
+				"type"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"s",
+				"Set Syntax: C++"
+			],
+			[
+				"syntax:css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn",
+				"Set Syntax: PHP"
+			],
+			[
+				"",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"synta",
+				"Set Syntax: C++"
+			],
+			[
+				"set fon",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"instak",
+				"Package Control: Install Package"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 190.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/pection/Programing/mn-ecommerce",
+		"/Users/pection/Programing/mn-ecommerce/core",
+		"/Users/pection/Programing/mn-ecommerce/djecommerce"
+	],
+	"file_history":
+	[
+		"/Users/pection/.config/colorls/folders.yaml",
+		"/Users/pection/Programing/mn-ecommerce/djecommerce/settings/development.py",
+		"/Users/pection/Programing/mn-ecommerce/templates/templates/base.html",
+		"/Users/pection/Programing/mn-ecommerce/manage.py",
+		"/Users/pection/Programing/mn-ecommerce/djecommerce/settings/base.py",
+		"/Users/pection/Programing/mn-ecommerce/requirements.txt",
+		"/Users/pection/Programing/mn-ecommerce/stn",
+		"/Users/pection/Programing/mn-ecommerce/create_project",
+		"/Users/pection/Downloads/django-simple-ecommerce-master/manage.py",
+		"/Users/pection/Downloads/django-simple-ecommerce-master/ecom/urls.py",
+		"/Users/pection/Downloads/django-simple-ecommerce-master/ecom/settings.py",
+		"/Users/pection/.gvimrc",
+		"/Users/pection/.vimrc",
+		"/Users/pection/.pyvimrc",
+		"/Users/pection/.zshrc",
+		"/Users/pection/.vim/rc",
+		"/Users/pection/.vim/vimrc.custom.before",
+		"/Users/pection/.vim/vimrc.custom.after",
+		"/Users/pection/.vim/vimrc.custom.",
+		"/Users/pection/.vim/guiSettingsVimRc",
+		"/Users/pection/.oh-my-zsh/custom/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh",
+		"/Users/pection/Programing/Django-Ecommerce/mnweb/urls.py",
+		"/Users/pection/Programing/Django-Ecommerce/templates/index.html",
+		"/Users/pection/Programing/Django-Ecommerce/core/urls.py",
+		"/Users/pection/Programing/Django-Ecommerce/core/models.py",
+		"/Users/pection/Programing/Django-Ecommerce/core/views.py",
+		"/Users/pection/Programing/Django-Ecommerce/core/templatetags/slide_template_tags.py",
+		"/Users/pection/Programing/Django-Ecommerce/core/templatetags/cart_template_tags.py",
+		"/Users/pection/Programing/Django-Ecommerce/core/templatetags/category_template_tags.py",
+		"/Users/pection/Programing/Django-Ecommerce/mnweb/azure.py",
+		"/Users/pection/.p10k.zsh",
+		"/Users/pection/Programing/python/django-ecommerce/core/models.py",
+		"/Users/pection/Programing/ecommerce_mn/templates/index.html",
+		"/Users/pection/Documents/mn_furniture/AddwatermarkProgram/Addwatermark.py",
+		"/Users/pection/Documents/mn_furniture/AddwatermarkProgram/Addwatermark2.py",
+		"/Users/pection/Documents/mn_furniture/AddwatermarkProgram/WatermarkB5.png",
+		"/Users/pection/Documents/mn_furniture/AddwatermarkProgram/logo.png",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/FFecom/settings/development.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/manage.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/FFecom/settings/base.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/requirements.txt",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/Store/tests.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/Store/urls.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/Store/models.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/Store/views.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/FFecom/urls.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/Store/apps.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/Store/admin.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/urls.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/templates/main.html",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/views.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/templates/menu.html",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/templates/gallery.html",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/templates/blog.html",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/templates/blog-details.html",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/templates/about.html",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/templates/index.html",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/templates/reservation.html",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/templates/stuff.html",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/admin.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/Gitffweb/settings.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/templates/store/index.html",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/templates/store/main.html",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/templates/store/store.html",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/utils.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/Gitffweb/urls.py",
+		"/Users/pection/Library/Application Support/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/Users/pection/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/tests.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/__init__.py",
+		"/Users/pection/Documents/Programing/FFdoc.github.io/Gitffweb/app/models.py",
+		"/Users/pection/.p10k-mike.zsh",
+		"/usr/sbin/screencapture",
+		"/Users/pection/Documents/ecommerceff/ecommerce/runffwebfromdocker/settings.py",
+		"/Users/pection/Documents/ecommerceff/ecommerce/manage.py",
+		"/Users/pection/Documents/ecommerceff/runffwebfromdocker/runffwebfromdocker/settings.py",
+		"/Users/pection/Documents/dockerffweb/requirements.txt",
+		"/Users/pection/Documents/dockerffweb/runffwebfromdocker/settings.py",
+		"/Users/pection/Documents/GitHub/django-starcross-gallery/models.py",
+		"/Users/pection/Documents/GitHub/django-starcross-gallery/admin.py",
+		"/Users/pection/Documents/dockerffweb/Dockerfile",
+		"/Users/pection/Documents/Programing/Hackmac.sh",
+		"/Users/pection/Documents/Programing/safa.sh",
+		"/Users/pection/Documents/runffwebfromdocker/p10k",
+		"/Users/pection/Documents/runffwebfromdocker/configure",
+		"/Users/pection/Documents/live-dinner/js/custom.js",
+		"/Users/pection/Documents/live-dinner/js/jquery.superslides.min.js",
+		"/Users/pection/Documents/live-dinner/js/popper.min.js",
+		"/Users/pection/Documents/runffwebfromdocker/find_project",
+		"/Users/pection/Documents/FASTCat/FASTCat/settings.py",
+		"/Users/pection/Documents/runffwebfromdocker/app/testPosts.py",
+		"/Users/pection/.ssh/id_rsa",
+		"/Users/pection/Documents/FASTCat/Dockerfile",
+		"/Users/pection/Documents/GitHub/Django-CRM/docker-compose.yml",
+		"/Users/pection/.gitconfig",
+		"/Users/pection/.oh-my-zsh/custom/plugins/auto-color-ls/auto-color-ls.plugin.zsh",
+		"/Users/pection/Library/Python/3.8/lib/python/site-packages/coloredlogs/syslog.py",
+		"/Users/pection/.config/colorls/folder_aliases.yaml",
+		"/Users/pection/.config/colorls/files.yaml",
+		"/Users/pection/.config/colorls/file_aliases.yaml",
+		"/Users/pection/.vim/keysVimRc",
+		"/Users/pection/.vim/init.vim",
+		"/Users/pection/VimBox/dotVim/autoload/plug.vim",
+		"/usr/local/opt/fzf/bin/fzf-tmux",
+		"/Users/pection/Library/ApplicationSupport/iTerm2/iterm2env/versions/3.7.5/readline/include/readline/keymaps.h",
+		"/Users/pection/.viminfo",
+		"/Users/pection/.config/colorls/dark_colors.yaml",
+		"/Users/pection/.gitconfig.",
+		"/Users/pection/header.txt",
+		"/Users/pection/.p10k-robbyrussell.zsh",
+		"/Users/pection/.vimrc:.swp",
+		"/Users/pection/.bashrc",
+		"/Users/pection/.bash_profile",
+		"/usr/local/bin/vi",
+		"/Users/pection/.oh-my-zsh/custom/themes/spaceship-prompt/spaceship.zsh",
+		"/Users/pection/Desktop/untitled.sh",
+		"/Users/pection/Documents/FASTCat/FASTCat/wsgi.py",
+		"/Users/pection/Documents/FASTCat/fastfurniture/admin.py",
+		"/Users/pection/Documents/FASTCat/FASTCat/urls.py",
+		"/Users/pection/Documents/django-photo-gallery/django_photo_gallery/django_photo_gallery/settings.py",
+		"/Users/pection/Documents/django-photo-gallery/django_photo_gallery/django_photo_gallery/__init__.py",
+		"/Users/pection/Documents/django-photo-gallery/django_photo_gallery/django_photo_gallery/urls.py",
+		"/Users/pection/Documents/django-photo-gallery/django_photo_gallery/django_photo_gallery/wsgi.py",
+		"/Users/pection/Documents/django-photo-gallery/django_photo_gallery/manage.py",
+		"/Users/pection/Documents/django-photo-gallery/django_photo_gallery/gallery/css/themes/grey.css",
+		"/Users/pection/Documents/django-photo-gallery/django_photo_gallery/gallery/css/gallery.css",
+		"/Users/pection/Documents/django-photo-gallery/django_photo_gallery/gallery/css/gallery_template.css",
+		"/Users/pection/Documents/django-photo-gallery/django_photo_gallery/app/forms.py"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mn-ecommerce.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"oc",
+				"ocr.py"
+			],
+			[
+				"",
+				"Chromstyle/chrome.scpt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

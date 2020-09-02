@@ -348,7 +348,7 @@ class PaymentView(View):
 class HomeView(ListView):
     model = Item
     paginate_by = 10
-    template_name = "home.html"
+    template_name = "index.html"
 
 
 class OrderSummaryView(LoginRequiredMixin, View):
